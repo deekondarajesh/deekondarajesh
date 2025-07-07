@@ -10,7 +10,7 @@ Smart Irrigation System – https://github.com/deekondarajesh/Smart--Irrigation-
 
 <b>Automatic Drinking System (Customizable Beverage Dispenser)</b>
 
-Automatic Drinking System – GitHub Repository
+Automatic Drinking System – https://github.com/deekondarajesh/Automatic-Drinking-System
 <i>User-customizable drink dispenser tailored to individual dietary requirements. Integrates sensor-based ingredient control, user input interface, and automation for precision drink mixing.</i>
 
 <h2> 🤳 Connect with me:</h2>
